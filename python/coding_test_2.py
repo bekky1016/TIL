@@ -5,7 +5,7 @@ result = []
 
 for i in old_list:
     if i % 2 == 0:
-	result.append(i)
+        result.append(i)
 
 print(result)
 
